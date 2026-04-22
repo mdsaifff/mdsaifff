@@ -1,18 +1,21 @@
 # Hi, I’m Mohammed Saif Ali 👋  
 [@mdsaifff](https://github.com/mdsaifff)
 
-I’m an Electronics and Communication student with a growing interest in Machine Learning, Artificial Intelligence, and data-driven problem solving. I enjoy learning how intelligent systems work and applying that knowledge to practical projects.
+I am currently pursuing an MSc in Applied Data Science at the University of Göttingen, with a strong interest in Machine Learning, Natural Language Processing, and Computer Vision. I enjoy exploring how data and intelligent systems can be used to solve real-world problems.
 
-## What I’m focused on
-- Machine Learning and Artificial Intelligence
-- Data Science and analytical thinking
-- Building projects that solve real problems
-- Continuous learning and technical growth
+## Interests
+- Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Applied Data Science
+
+## Background
+- B.Tech in Electronics and Communication
 
 ## Open to
-- Collaboration on ML/AI projects
-- Learning opportunities
-- Connecting with people who enjoy building and experimenting with technology
+- ML, NLP, and CV collaborations
+- Research and project-based opportunities
+- Learning from and contributing to open-source work
 
 ## Contact
 - LinkedIn: [Mohd Saif Ali](https://www.linkedin.com/in/mohd-saif-ali-47b8421a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg88SQLvSQl2%2BdvtbrIhnFw%3D%3D)
